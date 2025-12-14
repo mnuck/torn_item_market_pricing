@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Torn Item Market Pricing
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/mnuck/torn_item_market_pricing
 // @version      1.0
 // @description  Helps set prices for items on the item market in torn.com by fetching the lowest market price and undercutting it.
 // @author       Matthew Nuckolls <matthew.nuckolls@gmail.com>
+// @license      MIT; https://opensource.org/licenses/MIT
 // @match        https://www.torn.com/page.php?sid=ItemMarket
 // @match        https://www.torn.com/page.php?sid=ItemMarket#/addListing
 // @grant        GM_xmlhttpRequest
